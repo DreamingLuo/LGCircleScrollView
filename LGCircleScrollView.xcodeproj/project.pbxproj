@@ -14,6 +14,7 @@
 		EB8970771DDE93010007F5C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB8970751DDE93010007F5C0 /* LaunchScreen.storyboard */; };
 		EB8970821DDE93010007F5C0 /* LGCircleScrollViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8970811DDE93010007F5C0 /* LGCircleScrollViewTests.swift */; };
 		EB89708D1DDE93010007F5C0 /* LGCircleScrollViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB89708C1DDE93010007F5C0 /* LGCircleScrollViewUITests.swift */; };
+		EB89709B1DDEA7E70007F5C0 /* LGCircleScrollView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB89709A1DDEA7E70007F5C0 /* LGCircleScrollView1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EB8970881DDE93010007F5C0 /* LGCircleScrollViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LGCircleScrollViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB89708C1DDE93010007F5C0 /* LGCircleScrollViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LGCircleScrollViewUITests.swift; sourceTree = "<group>"; };
 		EB89708E1DDE93010007F5C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB89709A1DDEA7E70007F5C0 /* LGCircleScrollView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LGCircleScrollView1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				EB89706C1DDE93010007F5C0 /* AppDelegate.swift */,
+				EB89709A1DDEA7E70007F5C0 /* LGCircleScrollView1.swift */,
 				EB89706E1DDE93010007F5C0 /* ViewController.swift */,
 				EB8970701DDE93010007F5C0 /* Main.storyboard */,
 				EB8970731DDE93010007F5C0 /* Assets.xcassets */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB89709B1DDEA7E70007F5C0 /* LGCircleScrollView1.swift in Sources */,
 				EB89706F1DDE93010007F5C0 /* ViewController.swift in Sources */,
 				EB89706D1DDE93010007F5C0 /* AppDelegate.swift in Sources */,
 			);
